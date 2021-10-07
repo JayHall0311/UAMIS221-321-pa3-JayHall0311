@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UAMIS221-321-pa3-JayHall0311/1.0.0": {
+        "runtime": {
+          "UAMIS221-321-pa3-JayHall0311.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UAMIS221-321-pa3-JayHall0311/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

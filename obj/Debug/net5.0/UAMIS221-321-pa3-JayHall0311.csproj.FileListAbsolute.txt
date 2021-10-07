@@ -1,0 +1,16 @@
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\bin\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.exe
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\bin\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.deps.json
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\bin\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.runtimeconfig.json
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\bin\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.runtimeconfig.dev.json
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\bin\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.dll
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\bin\Debug\net5.0\ref\UAMIS221-321-pa3-JayHall0311.dll
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\bin\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.pdb
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\obj\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.csproj.AssemblyReference.cache
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\obj\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\obj\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.AssemblyInfoInputs.cache
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\obj\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.AssemblyInfo.cs
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\obj\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.csproj.CoreCompileInputs.cache
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\obj\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.dll
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\obj\Debug\net5.0\ref\UAMIS221-321-pa3-JayHall0311.dll
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\obj\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.pdb
+C:\Users\heyit\UAMIS221-321-pa3-JayHall0311\obj\Debug\net5.0\UAMIS221-321-pa3-JayHall0311.genruntimeconfig.cache
